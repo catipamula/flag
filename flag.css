@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.class1{
+    height: 50px;
+    width: 270px;
+    background-color: orange;
+    border: 1px solid black;
+    position: absolute;
+    top: 50px;
+    left: 170px;
+    
+}
+
+.class2{
+    height: 50px;
+    width: 270px;
+    background-color:white;
+    border: 1px solid black;
+    position: absolute;
+    top: 90px;
+    left: 170px;
+}
+
+.class3{
+    height: 50px;
+    width: 270px;
+    background-color: rgb(55, 116, 24);
+    border: 1px solid black;
+    position: absolute;
+    top: 140px;
+    left: 170px;
+    
+}
+
+
+.pole{
+
+    height: 20px;
+    width: 20px;
+    background-color: grey;
+    border-radius: 50%;
+    position: absolute;
+    top:30px;
+    left: 155px;
+    border: 1px solid black;
+
+}
+.class4{
+    height: 420px;
+    width: 10px;
+    background-color: gray;
+    border: 2px black;
+    border: 1px solid black;
+    position: absolute;
+    top: 50px;
+    left: 160px;
+}
+
+.class5{
+    background-color: black;
+    height: 30px;
+    width: 80px;
+    
+    border: 1px solid rgb(44, 43, 43);
+    position: absolute;
+    top: 440px;
+    left: 128px;
+}
+
+.class6{
+    background-color: rgb(38, 37, 37);
+    height: 30px;
+    width: 110px;
+    border: 1px solid black;
+    position: absolute;
+    top: 470px;
+    left: 115px;
+
+}
+
+.class7{
+    background-color: rgb(40, 37, 37);
+    height: 30px;
+    width: 140px;
+    border: 1px solid rgb(16, 15, 15);
+    position: absolute;
+    top: 500px;
+    left: 100px;
+
+}
